@@ -7,7 +7,7 @@ int main()
 {
     int size = 10;
  
-    char* message = " I MISS YOU GAURAV ";
+    char* message = " I MISS YOU KATHERINE ";
     int n = strlen(message);
  
     int print_line = 4;
